@@ -1,4 +1,4 @@
-# appengine-nodejs-quickstart
+# appengine-nodejs-quicks
 
 A starter project for node.js on Google App Engine Managed VMs using Custom Runtimes.
 
